@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Trulle1234
-- 👀 I’m interested in programing (obviously) and game dev
 - 🌱 I’m currently doing stuff
-- 📫 How to reach me -> Twitter: @Trulle12345
 - 😄 Pronouns: he/him
 
 <!---
