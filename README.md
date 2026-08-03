@@ -1,4 +1,4 @@
-# <img alt="PFP" src="pfp_small.webp" width=35> Hii I'm @Trulle1234!
+# <img alt="PFP" src="pfp_small.webp" width=35> Hii I'm Trulle123!
 
 ## About me
 - I'm from Sweden
